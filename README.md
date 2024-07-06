@@ -2,7 +2,7 @@
 ### Example filled out:
 
 ```markdown
-# HurryApp2 - Hackation
+# HurryApp2 - Hackation 
 
 ## Description
 HurryApp2 is a web application designed for organizing hackathons efficiently.
