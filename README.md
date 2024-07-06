@@ -39,11 +39,13 @@ To install HurryApp2, follow these steps:
 1. Navigate to the `frontend` directory:
    ```bash
    cd laravel
+   ```
 
 2. Install dependencies:
    ```bash
    composer install
    npm install
+   ```
 
 ### Backend
 1. Navigate to the `backend` directory:
@@ -66,6 +68,6 @@ To install HurryApp2, follow these steps:
    node server.js
    ```
 
-   3. Access the application via the provided URL:
+   3. Access the application via the provided URL.
 
 
