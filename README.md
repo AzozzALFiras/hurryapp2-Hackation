@@ -60,12 +60,12 @@ To install HurryApp2, follow these steps:
    ```
 
 ### Usage
-   1. Start the frontend server:
+   1. Start the `frontend` server:
    ```bash
    npm run dev
    ```
 
-   2. Start the backend server:
+   2. Start the `backend` server:
    ```bash
    node server.js
    ```
