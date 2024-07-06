@@ -1,0 +1,30 @@
+{
+    "name": "anik/amqp",
+    "description": "php-amqplib wrapper that eases the consumption of RabbitMQ. A painless way of using RabbitMQ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Syed Sirajul Islam Anik",
+            "email": "sirajul.islam.anik@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.2|^8.0",
+        "php-amqplib/php-amqplib": "^3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5|^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anik\\Amqp\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Anik\\Amqp\\Tests\\": "tests/"
+        }
+    }
+}
