@@ -46,7 +46,7 @@ To install HurryApp2, follow these steps:
    composer install
    ```
    ```bash
-      npm install
+   npm install
    ```
 
 ### Backend
