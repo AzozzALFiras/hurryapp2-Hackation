@@ -39,3 +39,4 @@ To install HurryApp2, follow these steps:
 1. Navigate to the `frontend` directory:
    ```bash
    cd laravel
+
